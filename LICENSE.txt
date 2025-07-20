@@ -1,0 +1,11 @@
+This software is provided under a source-available license.
+
+You are free to use, copy, modify, and distribute this software
+for personal, educational, or non-commercial purposes.
+
+Commercial use is strictly prohibited without explicit written permission
+from the authors.
+
+For commercial licensing inquiries, contact: [your email or website]
+
+© 2025 Gabriel Teixeira
